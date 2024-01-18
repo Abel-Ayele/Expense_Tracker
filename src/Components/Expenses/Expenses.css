@@ -1,0 +1,15 @@
+.wrapper {
+ margin: 2rem auto;
+ width: 80%;
+ max-width: 95%;
+ padding: 1rem;
+ background-color: rgb(24, 20, 20);
+ border-radius: 12px;
+ box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+}
+
+.wrapper p {
+    text-align: center;
+    font-weight: bold;
+    color: #ccc;
+}
